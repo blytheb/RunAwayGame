@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float turnSpeed = 20f;
+    public float runSpeed = 2f;
 
     Animator m_Animator;
     Rigidbody m_Rigidbody;
@@ -36,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
 
     void OnAnimatorMove()
     {
-        m_Rigidbody.MovePosition(m_Rigidbody.position + m_Movement * m_Animator.deltaPosition.magnitude);
+        m_Rigidbody.MovePosition(m_Rigidbody.position + m_Movement * runSpeed * m_Animator.deltaPosition.magnitude);
         m_Rigidbody.MoveRotation(m_Rotation);
     }
 }

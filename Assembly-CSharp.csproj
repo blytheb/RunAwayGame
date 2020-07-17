@@ -770,9 +770,6 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Cinemachine">
-      <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -791,14 +788,17 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>/Users/blythe/Desktop/RunAwayGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
