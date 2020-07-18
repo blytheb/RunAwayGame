@@ -229,6 +229,7 @@
     <None Include="Assets\Purchased\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
     <None Include="Assets\Purchased\PolygonApocalypse\Shader\POLYGON_Triplanar.shader" />
     <None Include="Assets\Purchased\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+    <None Include="Assets\Shaders\Standard-DoubleSided.shader" />
     <None Include="Assets\Purchased\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
     <None Include="Assets\Purchased\Standard Assets\Fonts\OpenSans\License!.txt" />
     <None Include="Assets\Purchased\DogPack\Examples\Description.txt" />
