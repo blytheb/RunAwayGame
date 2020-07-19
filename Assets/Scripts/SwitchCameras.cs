@@ -11,12 +11,12 @@ public class SwitchCameras : MonoBehaviour
     void Start()
     {
         main = MainCamera.GetComponent<Transform>();
-        print(main.position);
+        //print(main.position);
     }
 
     void Update()
     {
-        print("main = " + main.position);
+        //print("main = " + main.position);
         if (Input.GetKeyDown("space"))
         {
             main.position = MainCamera.transform.position;

@@ -3,23 +3,21 @@
     <Files>
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="32" />
       <File FileName="Assets/Scripts/CameraMovement.cs" />
-      <File FileName="Assets/Scripts/SwitchCameras.cs" Line="27" Column="1" />
-      <File FileName="Assets/Scripts/PickUp.cs" Line="26" Column="3" />
+      <File FileName="Assets/Scripts/SwitchCameras.cs" Line="14" Column="32" />
+      <File FileName="Assets/Scripts/GameMaster.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/TPCheck.cs" Line="22" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RunAwayGame" expanded="True">
-            <Node name="Assembly-CSharp" selected="True" />
-            <Node name="Assembly-CSharp-Editor" expanded="True" />
-          </Node>
+          <Node name="RunAwayGame" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8f625665-812f-4df8-acf7-d7e6c9b8031b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="392d0641-923c-4cc6-8afe-47bfc86f859a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
