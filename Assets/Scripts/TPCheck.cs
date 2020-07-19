@@ -7,20 +7,22 @@ public class TPCheck : MonoBehaviour
     public bool gotTP = false;
 
     private Collider grab;
+    private GameMaster Master;
 
 
     // Start is called before the first frame update
     void Start()
     {
         grab = GetComponent<Collider>();
+        Master = GameObject.Find("GameMaster").GetComponent<GameMaster>();
     }
 
-    void OnTriggerStay(Collider other)
+    void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "TP")
         {
             gotTP = true;
-            other.gameObject.SetActive(false);
+            Master.MoveTP();
         }
     }
 }
