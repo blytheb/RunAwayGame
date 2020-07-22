@@ -193,6 +193,7 @@
     <Compile Include="Assets\Samples\Cinemachine\2.6.0\Cinemachine Example Scenes\Shared\Scripts\SpawnInCircle.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\GameMaster.cs" />
+    <Compile Include="Assets\Scripts\Observer.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\SwitchCameras.cs" />
     <Compile Include="Assets\Scripts\TPCheck.cs" />

@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{1ADB6618-B8E5-25F4-5831-DB07B769FD81}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaypointControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Observer.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="32" NotebookId="1" />
       <File FileName="Assets/Scripts/CameraMovement.cs" NotebookId="1" />
       <File FileName="Assets/Scripts/SwitchCameras.cs" NotebookId="1" />
-      <File FileName="Assets/Scripts/GameMaster.cs" Line="34" Column="28" NotebookId="1" />
+      <File FileName="Assets/Scripts/GameMaster.cs" NotebookId="1" />
       <File FileName="Assets/Scripts/TPCheck.cs" NotebookId="1" />
       <File FileName="Assets/Scripts/WaypointControl.cs" Line="20" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Observer.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <FloatingWindows>
       <FloatingWindow WindowId="1" X="800" Y="23" Width="640" Height="855">
