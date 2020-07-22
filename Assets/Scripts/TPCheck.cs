@@ -21,7 +21,6 @@ public class TPCheck : MonoBehaviour
     {
         if (other.gameObject.tag == "TP")
         {
-            gotTP = true;
             Master.MoveTP();
         }
     }

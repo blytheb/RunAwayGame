@@ -196,6 +196,7 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\SwitchCameras.cs" />
     <Compile Include="Assets\Scripts\TPCheck.cs" />
+    <Compile Include="Assets\Scripts\WaypointControl.cs" />
     <None Include="Assets\Purchased\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
     <None Include="Assets\Purchased\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\Purchased\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />

@@ -6,8 +6,10 @@ public class GameMaster : MonoBehaviour
 {
     public GameObject TP;
     public GameObject TPSpawnPointsParent;
+    public GameObject EnemiesParent;
+    public GameObject EnemyPointsParent;
 
-    public int count = 0;
+    private int count = 0;
 
     private Transform[] TPSpawnPoints;
     private List<int> spawns;
@@ -33,6 +35,17 @@ public class GameMaster : MonoBehaviour
         TP.transform.position = TPSpawnPoints[spawnIndex].position;
         TP.SetActive(true);
 
+        Renderer[] EnemyPointsRend = EnemyPointsParent.GetComponentsInChildren<Renderer>();
+        for(int i = 0; i < EnemyPointsRend.Length; i++)
+        {
+            EnemyPointsRend[i].enabled = false;
+        }
+
+        Renderer[] EnemyRend = EnemiesParent.GetComponentsInChildren<Renderer>();
+        for(int i = 0; i < EnemyRend.Length; i++)
+        {
+            EnemyRend[i].enabled = false;
+        }
     }
 
     public void MoveTP()

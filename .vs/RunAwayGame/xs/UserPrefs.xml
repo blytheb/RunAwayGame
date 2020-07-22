@@ -1,16 +1,24 @@
 ﻿<Properties StartupConfiguration="{1ADB6618-B8E5-25F4-5831-DB07B769FD81}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TPCheck.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaypointControl.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="32" />
-      <File FileName="Assets/Scripts/CameraMovement.cs" />
-      <File FileName="Assets/Scripts/SwitchCameras.cs" />
-      <File FileName="Assets/Scripts/GameMaster.cs" />
-      <File FileName="Assets/Scripts/TPCheck.cs" Line="22" Column="26" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="32" NotebookId="1" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/SwitchCameras.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/GameMaster.cs" Line="34" Column="28" NotebookId="1" />
+      <File FileName="Assets/Scripts/TPCheck.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/WaypointControl.cs" Line="20" Column="1" NotebookId="1" />
     </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="800" Y="23" Width="640" Height="855">
+        <Files>
+          <File FileName="../../Downloads/Socially Distant/Assets/Scripts/GameplayController.cs" Line="83" Column="6" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c797a44a-e73c-495a-859f-a4c826d4bd08" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b1936299-654e-40a7-9b3e-77c9d9dfdb4d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
